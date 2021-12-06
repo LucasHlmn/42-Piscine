@@ -1,0 +1,5 @@
+Credentials cache: API:76EE2165-974F-4A0C-B8D1-0F45BD4E65F4
+        Principal: lhoulman@42TOKYO.JP
+
+  Issued                Expires             Flags    Principal
+Sep 27 18:40:31 2021  Sep 28 04:40:31 2021  FPIA   krbtgt/42TOKYO.JP@42TOKYO.JP
